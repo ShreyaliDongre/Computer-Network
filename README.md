@@ -7,33 +7,6 @@ A collection of practical lab assignments for the “Computer Networks” course
 **Shreyali Dongre**  
 B.Tech (CSE Honours), Data Science
 
-## 📂 Repository Structure  
-```
-
-/
-├─ practical_1/
-│   └─ …
-├─ practical_2/
-│   └─ …
-├─ practical_3/
-│   └─ …
-├─ practical_4/
-│   └─ …
-├─ practical_5/
-│   └─ …
-├─ practical_6/
-│   └─ …
-├─ practical_7/
-│   └─ …
-├─ practical_8/
-│   └─ …
-├─ practical_9/
-│   └─ …
-├─ practical_10/
-│   └─ …
-└─ README.md
-
-````
 Each folder (“practical_1”, “practical_2”, …) corresponds to a lab exercise in the Computer Networks course.
 
 ## 🎯 Purpose  
