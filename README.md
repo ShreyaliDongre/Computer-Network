@@ -1,6 +1,3 @@
-Here’s a professional `README.md` template tailored for your repository Computer‑Network by Shreyali Dongre, ready to place at the root of your project. You can further customise or expand it as needed.
-
----
 
 ```markdown
 # Computer-Network  
